@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26402
     wikipedia: http://en.wikipedia.org/wiki/Charles_Gounod
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35812#Autobiographical-Reminiscences-with-Family-Letters-and-Notes-on-Music
 gutenberg_issued: '2011-04-10'
 gutenberg_type: Text
 identifiers:
